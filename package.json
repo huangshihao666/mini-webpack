@@ -1,0 +1,26 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "description": "手写一个简易的webpack工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangshihao666/mini-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangshihao666/mini-webpack/issues"
+  },
+  "homepage": "https://github.com/huangshihao666/mini-webpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/parser": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/traverse": "^7.15.4"
+  }
+}
